@@ -4,9 +4,7 @@
 #include <iostream>
 
 int main()
-{
-    std::cout << "Hello Worldddddddd!\n";
-	printf("ddd");
+   std::cout << "Hello World!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
