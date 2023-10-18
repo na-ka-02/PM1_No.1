@@ -6,9 +6,16 @@
 int main(){
    std::cout << "Hello World!\n";
 
-   std::cout << "2023/10/11\n";
-
     std::cout << "Enemy生成\n";
+
+   std::cout << "2023/10/18\n";
+
+   std::cout << "Player生成\n";
+
+   std::cout << "プルしてください";
+
+    std::cout << "プルしてくだい";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
