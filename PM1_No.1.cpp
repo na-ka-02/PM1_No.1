@@ -6,7 +6,7 @@
 int main(){
    std::cout << "Hello World!\n";
 
-   std::cout << "2023/10/11\n";
+   std::cout << "2023/10/18\n";
 
    std::cout << "Player生成\n";
 
