@@ -24,7 +24,6 @@ int main() {
 	std::cout << "課題6\n";
 
 	std::cout << "課題6\n";
-
 	std::cout << "課題6\n";
 }
 
