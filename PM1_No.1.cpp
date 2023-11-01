@@ -25,17 +25,16 @@ int main() {
 
 	std::cout << "課題6\n";
 
-int main(){
-   std::cout << "Hello World!\n";
-   std::cout << "2023/10/11\n";
+	std::cout << "Hello World!\n";
+	std::cout << "2023/10/11\n";
 
-   std::cout << "プルせずにmasterを書き変える\n";
+	std::cout << "プルせずにmasterを書き変える\n";
 
-   std::cout << "プルせずにmasterを書き変える2\n";
+	std::cout << "プルせずにmasterを書き変える2\n";
 
-   std::cout << "課題6\n";
+	std::cout << "課題6\n";
 
-   std::cout << "課題6\n";
+	std::cout << "課題6\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
