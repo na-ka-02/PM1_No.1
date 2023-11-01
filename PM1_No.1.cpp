@@ -12,9 +12,11 @@ int main(){
 
    std::cout << "Player生成\n";
 
-   std::cout << "プルしてください";
+   std::cout << "プルしてください\n";
 
-    std::cout << "プルしてくだい";
+    std::cout << "プルしてくだい\n";
+
+    std::cout << "プルリクエストおさらい\n";
 
 }
 
